@@ -72,6 +72,10 @@ namespace ItcraftTest.Controllers
                     table.Load(myReader); ;
 
                     myReader.Close();
+
+
+
+
                     myCon.Close();
                 }
             }

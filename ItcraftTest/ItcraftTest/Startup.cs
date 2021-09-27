@@ -13,6 +13,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Newtonsoft.Json.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -64,6 +65,13 @@ namespace ItcraftTest
                     builder.AllowAnyMethod();
                     });
             });
+            //JSON Serializer
+            services.AddControllersWithViews()
+                .AddNewtonsoftJson(options =>
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft
+                .Json.ReferenceLoopHandling.Ignore)
+                .AddNewtonsoftJson(options => options.SerializerSettings.ContractResolver
+                = new DefaultContractResolver());
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
