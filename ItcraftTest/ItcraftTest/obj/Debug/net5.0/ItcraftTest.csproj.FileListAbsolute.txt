@@ -134,3 +134,14 @@ F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Microsoft.AspN
 F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Newtonsoft.Json.dll
 F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.AspNetCore.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+F:\.bootstrap\web-apl5.0\ItcraftTest\ItcraftTest\bin\Debug\net5.0\Serilog.Sinks.File.dll
